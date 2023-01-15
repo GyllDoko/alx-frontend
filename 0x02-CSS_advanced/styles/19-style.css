@@ -501,7 +501,7 @@ ul.row {
   list-style: none;
 }
 .col-1-3 {
-  width: 33%;
+  width: 33.33%;
   float: left;
   padding: 0.5rem;
 }
@@ -515,6 +515,6 @@ ul.row {
   font-size: var(--font-size-small);
   color: var(--text-color);
 }
-footer ul {
+.footer ul {
   text-align: right;
 }
